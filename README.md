@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjay
-- 👀 I’m interested in Data Science, Cloud computing
+- 👀 I’m interested in Data Analyst, Cloud computing
 - 🌱 I’m currently learning BTech Information Technology
 - 💞️ I’m looking to collaborate on projects related to data scinece.
 - 📫 How to reach me : connect here any time in evening

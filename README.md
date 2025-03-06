@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjay
 - 👀 I’m interested in Data Analyst, Cloud computing
 - 🌱 I’m currently learning BTech Information Technology
-- 💞️ I’m looking to collaborate on projects related to data scinece.
+- 💞️ I’m looking to collaborate on projects related to data analytics.
 - 📫 How to reach me : connect here any time in evening
 - 😄 Pronouns: He
 - ⚡ Fun fact: Nothing
